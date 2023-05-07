@@ -8,7 +8,7 @@
 </div>
 
 ###
-
+<h4> Technologies I use</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" width="115" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="55" width="115" alt="typescript logo"  />
@@ -21,6 +21,7 @@
 
 ###
 
+<h4>connect with me</h4>
 <div align="left">
   <a href="aditya.__.bhardwaj" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="200" height="40" alt="instagram logo"  />
