@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aditya Bhardwaj, a passionate Web-Dev from India</h2>
+<h2 align="left">Hi 👋! My name is Aditya Bhardwaj, a passionate webDev from India</h2>
 
 ###
 
@@ -50,7 +50,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/31hhybtg5x4cmylxydczbysb2dra">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hhybtg5x4cmylxydczbysb2dra&unique={true|1|on|yes}" alt="Spotify recently played"  />
   </a>
 </div>
 
