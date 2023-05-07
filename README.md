@@ -44,7 +44,7 @@
 
 ###
 
-<img align="left" height="100" src="https://99designs-blog.imgix.net/blog/wp-content/uploads/2020/03/slower.gif?auto=format&q=60&fit=max&w=930"  />
+<img align="left" height="200" src="https://99designs-blog.imgix.net/blog/wp-content/uploads/2020/03/slower.gif?auto=format&q=60&fit=max&w=930"  />
 
 ###
 
