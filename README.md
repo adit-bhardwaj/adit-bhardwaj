@@ -44,14 +44,5 @@
 
 ###
 
-<img align="left" height="200" src="https://99designs-blog.imgix.net/blog/wp-content/uploads/2020/03/slower.gif?auto=format&q=60&fit=max&w=930"  />
+<img align="none" height="300" src="https://99designs-blog.imgix.net/blog/wp-content/uploads/2020/03/slower.gif?auto=format&q=60&fit=max&w=930"  />
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31hhybtg5x4cmylxydczbysb2dra">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hhybtg5x4cmylxydczbysb2dra&unique={true|1|on|yes}" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
